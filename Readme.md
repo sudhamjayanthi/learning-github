@@ -8,3 +8,4 @@
 
 # New line in master
 
+New line in the second branch
